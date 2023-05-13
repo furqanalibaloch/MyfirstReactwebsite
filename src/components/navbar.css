@@ -1,0 +1,15 @@
+.newclass{
+    color: white !important;
+}
+.underline{
+    color: green !important;
+    text-decoration: underline !important;
+    
+
+}
+
+.navbg{
+    background-image: url(./navbarpic/header-bg.png);
+   
+}
+
